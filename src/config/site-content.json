@@ -46,21 +46,21 @@
 			"type": "x",
 			"value": "https://x.com/zwenlee",
 			"label": "",
-			"order": 3
+			"order": 8
 		},
 		{
 			"id": "juejin",
 			"type": "facebook",
 			"value": "https://www.facebook.com/zwenlee",
 			"label": "",
-			"order": 2
+			"order": 9
 		},
 		{
 			"id": "email",
 			"type": "instagram",
 			"value": "https://www.instagram.com/zwenlee/",
 			"label": "",
-			"order": 1
+			"order": 10
 		}
 	],
 	"clockShowSeconds": false,
