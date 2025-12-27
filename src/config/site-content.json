@@ -61,6 +61,13 @@
 			"value": "https://www.instagram.com/zwenlee/",
 			"label": "",
 			"order": 10
+		},
+		{
+			"id": "button-1766832017046",
+			"type": "github",
+			"value": "https://github.com/zwenlee",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
