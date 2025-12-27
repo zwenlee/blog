@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"name": "安娜的档案",
+		"logo": "blob:https://www.zwen.net/2cb6d611-3343-4e82-bd45-e5748459ee3d",
+		"url": "https://zh.annas-archive.org",
+		"description": "人类历史上最大的完全开放的图书馆",
+		"tags": [
+			"电子书"
+		],
+		"stars": 5
+	}
+]
