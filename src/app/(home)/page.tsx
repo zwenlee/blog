@@ -1,7 +1,6 @@
 'use client'
 
 import HiCard from '@/app/(home)/hi-card'
-import ArtCard from '@/app/(home)/art-card'
 import ClockCard from '@/app/(home)/clock-card'
 import CalendarCard from '@/app/(home)/calendar-card'
 import MusicCard from '@/app/(home)/music-card'
