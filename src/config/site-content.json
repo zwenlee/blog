@@ -42,32 +42,39 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
+			"id": "button-1766832017046",
+			"type": "github",
+			"value": "https://github.com/zwenlee",
+			"label": "",
+			"order": 1
+		},
+		{
+			"id": "button-1766832056962",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/470778243",
+			"label": "",
+			"order": 2
+		},
+		{
 			"id": "github",
 			"type": "x",
 			"value": "https://x.com/zwenlee",
 			"label": "",
-			"order": 8
+			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "facebook",
 			"value": "https://www.facebook.com/zwenlee",
 			"label": "",
-			"order": 9
+			"order": 4
 		},
 		{
 			"id": "email",
 			"type": "instagram",
 			"value": "https://www.instagram.com/zwenlee/",
 			"label": "",
-			"order": 10
-		},
-		{
-			"id": "button-1766832017046",
-			"type": "github",
-			"value": "https://github.com/zwenlee",
-			"label": "",
-			"order": 4
+			"order": 5
 		}
 	],
 	"clockShowSeconds": false,
