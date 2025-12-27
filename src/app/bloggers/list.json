@@ -1,1 +1,9 @@
-[]
+[
+	{
+		"name": "Joe’s Blog",
+		"avatar": "https://hijiangtao.github.io/images/bio-photo.jpg",
+		"url": "https://hijiangtao.github.io",
+		"description": "All I’m saying is inside, I had the element of surprise.",
+		"stars": 5
+	}
+]
