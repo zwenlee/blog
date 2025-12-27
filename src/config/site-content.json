@@ -88,7 +88,7 @@
 	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
-	"hideEditButton": true,
+	"hideEditButton": false,
 	"enableCategories": false,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
