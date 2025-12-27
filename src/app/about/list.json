@@ -1,5 +1,5 @@
 {
 	"title": "关于本站",
-	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"description": "Zwen 的个人自留地，记录生活，保持热爱",
+	"content": "🚫 拒绝算法推荐：这里没有大数据裹挟的信息流，只有我主观视角的所见、所闻、所感。\n\n🧩 拼接生活全貌：不仅仅是工作，更多的是旅行、爱好和那些无用但有趣的瞬间。\n\n🌱 并不完美的我：记录成长的阵痛，也接纳偶尔的颓废，这是一个完整而真实的个体。\n\n🤝 寻找同频共振：如果你也恰好路过这里，希望能在一行行文字中，找到一点点共鸣。"
 }
