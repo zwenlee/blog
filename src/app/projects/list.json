@@ -1,13 +1,1 @@
-[
-	{
-		"name": "网站",
-		"year": 2025,
-		"description": "",
-		"image": "/images/project/09bb208baa09ebd2.jpg",
-		"url": "https://zwen.net",
-		"tags": [
-			"Next.js",
-			"MDX"
-		]
-	}
-]
+[]
