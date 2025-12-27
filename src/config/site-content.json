@@ -89,7 +89,7 @@
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": true,
-	"enableCategories": true,
+	"enableCategories": false,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
 	"enableChristmas": false,
