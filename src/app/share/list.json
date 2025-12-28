@@ -3,7 +3,7 @@
 		"name": "安娜的档案",
 		"logo": "/images/share/d8706a48a6572ffa.png",
 		"url": "https://zh.annas-archive.org",
-		"description": "人类历史上最大的完全开放的图书馆",
+		"description": "The largest truly open library in human history.",
 		"tags": [
 			"电子书"
 		],
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "AppsTorrent",
-		"logo": "blob:https://www.zwen.net/7016e1af-89f0-44ee-902b-b7a6a163a16c",
+		"logo": "/images/share/7ae09da91addf897.png",
 		"url": "https://appstorrent.ru",
 		"description": "Games and Programs for macOS.",
 		"tags": [
