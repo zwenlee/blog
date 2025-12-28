@@ -11,7 +11,7 @@
 		"width": 398,
 		"height": 331,
 		"order": 1,
-		"offsetX": -172,
+		"offsetX": -218,
 		"offsetY": -232,
 		"enabled": true
 	},
@@ -20,15 +20,15 @@
 		"height": 112,
 		"offset": 92,
 		"order": 4,
-		"offsetX": 259,
-		"offsetY": -142,
+		"offsetX": 207,
+		"offsetY": -151,
 		"enabled": true
 	},
 	"calendarCard": {
 		"width": 350,
 		"height": 286,
 		"order": 5,
-		"offsetX": 251,
+		"offsetX": 208,
 		"offsetY": 0,
 		"enabled": true
 	},
@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -520,
-		"offsetY": 238,
+		"offsetX": -568,
+		"offsetY": 234,
 		"enabled": true
 	},
 	"shareCard": {
@@ -61,7 +61,7 @@
 		"width": 393,
 		"height": 158,
 		"order": 8,
-		"offsetX": -166,
+		"offsetX": -216,
 		"offsetY": 128,
 		"enabled": true
 	},
@@ -69,7 +69,7 @@
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 262,
+		"offsetX": 207,
 		"offsetY": -227,
 		"enabled": true
 	},
@@ -77,8 +77,8 @@
 		"width": 288,
 		"height": 450,
 		"order": 2,
-		"offsetX": -489,
-		"offsetY": -236,
+		"offsetX": -536,
+		"offsetY": -234,
 		"enabled": true
 	},
 	"likePosition": {
