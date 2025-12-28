@@ -10,5 +10,17 @@
 			"音乐",
 			"奇幻"
 		]
+	},
+	{
+		"name": "寻梦环游记 Coco (2017)",
+		"year": 2026,
+		"image": "blob:https://www.zwen.net/8c14db03-c62e-4855-be7b-9e989fcf2cb1",
+		"url": "https://movie.douban.com/subject/20495023/",
+		"description": "You have our blessing, No conditions.",
+		"tags": [
+			"动画",
+			"音乐",
+			"奇幻"
+		]
 	}
 ]
