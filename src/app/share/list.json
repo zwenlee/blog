@@ -18,5 +18,15 @@
 			"AI"
 		],
 		"stars": 5
+	},
+	{
+		"name": "AppsTorrent",
+		"logo": "blob:https://www.zwen.net/7016e1af-89f0-44ee-902b-b7a6a163a16c",
+		"url": "https://appstorrent.ru",
+		"description": "Games and Programs for macOS.",
+		"tags": [
+			"mac"
+		],
+		"stars": 4
 	}
 ]
