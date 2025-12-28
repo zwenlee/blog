@@ -25,14 +25,14 @@
 		"avatar": "/images/blogger/4a976993fca03644.jpg",
 		"url": "https://space.bilibili.com/538596213",
 		"description": "和各界大牛聊科技、人文、世界、时代、男女、爹青，以及人生所有的十字路口。",
-		"stars": 3
+		"stars": 5
 	},
 	{
 		"name": "硅谷101",
 		"avatar": "/images/blogger/4078bebf5f85e4fc.jpg",
 		"url": "https://open.spotify.com/show/0wngyWmgWZB8aXMg9DooJ5",
 		"description": "分享当下最新鲜的技术、知识与思想的科技播客。",
-		"stars": 3
+		"stars": 5
 	},
 	{
 		"name": "边缘人小曹",
@@ -57,14 +57,14 @@
 	},
 	{
 		"name": "艺术说明书",
-		"avatar": "https://www.zwen.net/images/blogger/dcb6e07634fc2424.jpg",
+		"avatar": "/images/blogger/ddd12fd826108887.jpg",
 		"url": "https://space.bilibili.com/475868547",
 		"description": "西方艺术史",
 		"stars": 5
 	},
 	{
 		"name": "M的蒙太奇笔记",
-		"avatar": "https://www.zwen.net/images/blogger/dcb6e07634fc2424.jpg",
+		"avatar": "/images/blogger/d7ca756e4164373e.jpg",
 		"url": "https://space.bilibili.com/14427045",
 		"description": "影视创作者，社会学，哲学爱好者。结合电影，讲讲我对世界的看法。",
 		"stars": 5
@@ -74,13 +74,13 @@
 		"avatar": "/images/blogger/0b0acf8000fb1454.jpg",
 		"url": "https://space.bilibili.com/1053088039",
 		"description": "从银行外包爬到区中心行长，分享30年进化干货",
-		"stars": 3
+		"stars": 5
 	},
 	{
 		"name": "天真的和感伤的小说家",
 		"avatar": "/images/blogger/741480765d09a137.jpg",
 		"url": "https://space.bilibili.com/314521322",
 		"description": "小说 电影 跟想象有关的",
-		"stars": 3
+		"stars": 5
 	}
 ]
