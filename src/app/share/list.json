@@ -8,5 +8,15 @@
 			"电子书"
 		],
 		"stars": 5
+	},
+	{
+		"name": "LMArena",
+		"logo": "blob:https://www.zwen.net/5ebb53d9-1827-4e9c-979d-d5ed4a704813",
+		"url": "https://lmarena.ai/zh/leaderboard",
+		"description": "See how leading models stack up across text, image, vision, and beyond. ",
+		"tags": [
+			"AI"
+		],
+		"stars": 5
 	}
 ]
