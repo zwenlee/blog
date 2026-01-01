@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "slug": "hello2026",
+    "title": "start from here",
+    "tags": [],
+    "date": "2026-01-01T12:14",
+    "summary": "Goodbye 2025, Hello 2026!",
+    "hidden": false,
+    "category": ""
+  }
+]
